@@ -24,7 +24,7 @@ sudo mcedit ~/.docker/config.json
 ## Вариант 2
 >[Ссылка на гайд](https://stackoverflow.com/questions/24151129/network-calls-fail-during-image-build-on-corporate-network)
 
-Посмотри имя моего соединения
+Посмотрим имя соединения
 ```
 ifconfig
 ```
