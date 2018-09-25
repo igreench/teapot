@@ -35,6 +35,7 @@ nmcli device show eth0 | grep IP4.DNS
 ```
 У меня: **DNS:192.168.10.100**
 Открываем настройки сервиса.
+
 В Ubuntu:
 ```
 sudo mcedit /etc/default/docker
