@@ -48,3 +48,4 @@
 - [Поиск правильного способа разделения материалов сайтов с помощью Webpack](https://habr.com/company/ruvds/blog/423483/)
 - [Оптимизация работы с прототипами в JavaScript-движках](https://habr.com/company/ruvds/blog/422321/)
 - [Организация эффективного взаимодействия микросервисов](https://habr.com/company/ruvds/blog/421579/)
+- **!!!**[Почему не стоит использовать LocalStorage](https://habr.com/post/349164/)
