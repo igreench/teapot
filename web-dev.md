@@ -1,8 +1,8 @@
 ## Руководство по Node.js
 
-- [Часть 1: общие сведения и начало работы](https://habr.com/company/ruvds/blog/422893/)
+- [Часть 1: Общие сведения и начало работы](https://habr.com/company/ruvds/blog/422893/)
 - [Часть 2: JavaScript, V8, некоторые приёмы разработки](https://habr.com/company/ruvds/blog/423153/)
-- [Часть 3: хостинг, REPL, работа с консолью, модули](https://habr.com/users/ru_vds/posts/)
+- [Часть 3: Хостинг, REPL, работа с консолью, модули](https://habr.com/users/ru_vds/posts/)
 - [Часть 4: npm, файлы package.json и package-lock.json](https://habr.com/company/ruvds/blog/423703/)
 - [Часть 5: npm и npx](https://habr.com/company/ruvds/blog/423705/)
 
@@ -10,11 +10,11 @@
 
 ## Веб-приложение на Node и Vue
 
-- [Часть 1: структура проекта, API, аутентификация](https://habr.com/company/ruvds/blog/340750/)
-- [Часть 2: компоненты, формы, маршруты](https://habr.com/company/ruvds/blog/340926/)
-- [Часть 3: развитие клиента и сервера](https://habr.com/company/ruvds/blog/341874/)
-- [Часть 4: повторное использование кода](https://habr.com/company/ruvds/blog/342402/)
-- [Часть 5: завершение работы над проектом](https://habr.com/company/ruvds/blog/346784/)
+- [Часть 1: Структура проекта, API, аутентификация](https://habr.com/company/ruvds/blog/340750/)
+- [Часть 2: Компоненты, формы, маршруты](https://habr.com/company/ruvds/blog/340926/)
+- [Часть 3: Развитие клиента и сервера](https://habr.com/company/ruvds/blog/341874/)
+- [Часть 4: Повторное использование кода](https://habr.com/company/ruvds/blog/342402/)
+- [Часть 5: Завершение работы над проектом](https://habr.com/company/ruvds/blog/346784/)
 
 ***
 
@@ -33,12 +33,12 @@
 - [Часть 11: Движки рендеринга веб-страниц и советы по оптимизации их производительности](https://habrahabr.ru/company/ruvds/blog/351802/)
 - [Часть 12: Сетевая подсистема браузеров, оптимизация её производительности и безопасности](https://habr.com/company/ruvds/blog/354070/)
 - [Часть 13: Анимация средствами CSS и JavaScript](https://habr.com/company/ruvds/blog/354438/)
-- [Часть 14: Как работает JS: абстрактные синтаксические деревья, парсинг и его оптимизация](https://habr.com/company/ruvds/blog/415269/)
-- [Часть 15: Как работает JS: классы и наследование, транспиляция в Babel и TypeScript](https://habr.com/company/ruvds/blog/415377/)
-- [Часть 16: Как работает JS: системы хранения данных](https://habr.com/company/ruvds/blog/415505/)
-- [Часть 17: Как работает JS: технология Shadow DOM и веб-компоненты](https://habr.com/company/ruvds/blog/415881/)
-- [Часть 18: Как работает JS: WebRTC и механизмы P2P-коммуникаций](https://habr.com/company/ruvds/blog/416821/)
-- [Часть 19: Как работает JS: пользовательские элементы](https://habr.com/company/ruvds/blog/419831/)
+- [Часть 14: Абстрактные синтаксические деревья, парсинг и его оптимизация](https://habr.com/company/ruvds/blog/415269/)
+- [Часть 15: Классы и наследование, транспиляция в Babel и TypeScript](https://habr.com/company/ruvds/blog/415377/)
+- [Часть 16: Системы хранения данных](https://habr.com/company/ruvds/blog/415505/)
+- [Часть 17: Технология Shadow DOM и веб-компоненты](https://habr.com/company/ruvds/blog/415881/)
+- [Часть 18: WebRTC и механизмы P2P-коммуникаций](https://habr.com/company/ruvds/blog/416821/)
+- [Часть 19: Пользовательские элементы](https://habr.com/company/ruvds/blog/419831/)
 
 ***
 
@@ -48,4 +48,4 @@
 - [Поиск правильного способа разделения материалов сайтов с помощью Webpack](https://habr.com/company/ruvds/blog/423483/)
 - [Оптимизация работы с прототипами в JavaScript-движках](https://habr.com/company/ruvds/blog/422321/)
 - [Организация эффективного взаимодействия микросервисов](https://habr.com/company/ruvds/blog/421579/)
-- **!!!**[Почему не стоит использовать LocalStorage](https://habr.com/post/349164/)
+- **[!!!]** [Почему не стоит использовать LocalStorage](https://habr.com/post/349164/)
