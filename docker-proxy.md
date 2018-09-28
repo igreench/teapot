@@ -80,3 +80,7 @@ sudo systemctl status docker
 ```
 Тестим.
 Иии... Убеждаемся, что всё работает. Ура :)
+
+***
+
+**P.S.** Нашел [статью](https://development.robinwinslow.uk/2016/06/23/fix-docker-networking-dns/), в которой это все хорошо объясняется.
