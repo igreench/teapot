@@ -1,1 +1,2 @@
-[What is the relationship between virtualenv and pyenv?](https://stackoverflow.com/a/29950604)
+- [virtual env cheet list](https://eax.me/python-virtualenv/)
+- [What is the relationship between virtualenv and pyenv?](https://stackoverflow.com/a/29950604)
