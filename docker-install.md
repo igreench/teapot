@@ -8,10 +8,17 @@ sudo apt-get update
 ```
 В теории можно дико накосопорить с контейнерами. Если руки из жопы, как у меня, то можно грохнуть образы и контейнеры:
 ```
-# Delete all containers
-docker rm $(docker ps -a -q)
-# Delete all images
-docker rmi $(docker images -q)
+# Clear containers
+docker rm -f $(docker ps -a -q)
+
+# Clear images:
+docker rmi -f $(docker images -a -q)
+
+# Clear volumes:
+docker volume rm $(docker volume ls -q)
+
+# Clear networks:
+docker network rm $(docker network ls | tail -n+2 | awk '{if($2 !~ /bridge|none|host/){ print $1 }}')
 ```
 Теперь установим докер (паста с оф сайта)
 ```
