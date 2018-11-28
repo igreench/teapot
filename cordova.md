@@ -65,10 +65,6 @@ Alternatively, you can add a **build.json** file to root of project instead with
 
 9. Start Project Android
 
-```bash
-cordova emulate android
-```
-
 If you wish to run your Cordova app on an Android emulator, you will first need to create an Android Virtual Device (AVD). See the Android documentation for:
 - [Managing AVDs](https://developer.android.com/studio/run/managing-avds)
 - [Configuring the emulator](https://developer.android.com/studio/run/emulator#about)
@@ -81,6 +77,9 @@ Simple guide for AVD:
 - Run *Tools -> SDK Manager*
 - Install SDK Platform Android 8.1 (Oreo) with 27 API Level
 
+```bash
+cordova emulate android
+```
 
 10. Start Project iOS
 
