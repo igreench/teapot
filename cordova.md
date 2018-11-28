@@ -77,6 +77,30 @@ Simple guide for AVD:
 - Run *Tools -> SDK Manager*
 - Install SDK Platform Android 8.1 (Oreo) with 27 API Level
 
+Now you can start emulator from Android Studio and then run 
+
+```bash
+cordova emulate android
+```
+
+But for starting emulator without Android Studio you must to do [some steps](https://stackoverflow.com/questions/44604265/cordova-and-adb-server-issue/50503179#50503179)
+
+Add to **config.xml** file in your cordova work directory
+
+```xml
+<preference name="loadUrlTimeoutValue" value="700000" />
+```
+
+and run next
+
+```bash
+adb kill-server
+adb forward --remove-all
+adb start-server
+```
+
+Congrats! You can start your cordova android application simply
+
 ```bash
 cordova emulate android
 ```
