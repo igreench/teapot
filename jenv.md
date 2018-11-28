@@ -6,9 +6,7 @@
 ***
 
 ```bash
-brew update && brew cask install java
-brew install https://raw.githubusercontent.com/entrypass/jenv/homebrew/homebrew/jenv.rb
-echo 'eval "$(jenv init -)"' >> ~/.bash_profile
+brew install jenv
 brew tap homebrew/cask-versions
 brew search java
 brew cask install java7
