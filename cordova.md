@@ -22,7 +22,7 @@ npm install -g cordova
 
 npm install -g ios-sim
 npm install -g ios-deploy
-```bash
+```
 
 7. Configure Cordova Project for Android
 
@@ -73,6 +73,13 @@ If you wish to run your Cordova app on an Android emulator, you will first need 
 - [Managing AVDs](https://developer.android.com/studio/run/managing-avds)
 - [Configuring the emulator](https://developer.android.com/studio/run/emulator#about)
 - [Setting up hardware acceleration](https://developer.android.com/studio/run/emulator-acceleration)
+
+Simple guide for AVD:
+- Start Android Studio
+- Run *Tools -> AVD Manager*
+- Add device with **API level android-27**
+- Run *Tools -> SDK Manager*
+- Install SDK Platform Android 8.1 (Oreo) with 27 API Level
 
 
 10. Start Project iOS
