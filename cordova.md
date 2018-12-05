@@ -124,22 +124,3 @@ cordova emulate ios
 ```
 
 11. yupiii
-
-12. Attention!
-
-You must define path to your gradle. Sometimes you can get some errors with gradle version
-
-For example, use:
-```bash
-echo "\nexport CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL=$(brew info gradle | grep /usr/local/Cellar/gradle | awk '{print $1}')/bin/gradle" >> ~/.bashrc
-```
-
-Then check from cordova root the gradle
-```bash
-./gradlew --version
-```
-
-For updating gradle wrapper type
-```bash
-gradle wrapper
-```
