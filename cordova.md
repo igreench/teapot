@@ -123,7 +123,7 @@ or with using **build.json**
 cordova emulate ios
 ```
 
-11. YUPIII
+11. yupiii
 
 12. Attention!
 
@@ -139,7 +139,7 @@ Then check from cordova root the gradle
 ./gradlew --version
 ```
 
-For updating gradle type
+For updating gradle wrapper type
 ```bash
 gradle wrapper
 ```
