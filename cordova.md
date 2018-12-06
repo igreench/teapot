@@ -124,3 +124,98 @@ cordova emulate ios
 ```
 
 11. yupiii
+
+## Some fixies
+
+### Problem
+
+When you exec
+
+```bash
+cordova requirements
+```
+
+you see
+
+```bash
+Requirements check results for browser:
+Cannot read property 'forEach' of undefined
+```
+
+### Solution
+
+open
+
+```bash
+.\YourCordovaProject\platforms\browser\cordova\lib\check_reqs.js
+```
+
+replace code
+
+```js
+module.exports.run = function () {
+    return Promise.resolve();
+};
+```
+
+to
+
+```js
+module.exports.run = function () {
+    var requirements = [new Requirement('browser', 'Browser', true, true)];
+    return Promise.resolve().then(function(){
+        return requirements;
+        //or just return [];
+    });
+};
+
+/*Not need if retun []*/
+var Requirement = function (id, name, version, installed) {
+    this.id = id;
+    this.name = name;
+    this.installed = installed || false;
+    this.metadata = {
+        version: version
+    };
+};
+```
+
+([details](https://gist.github.com/ShenTengTu/1e389f1a1a9a32a6a143e8d77259939b))
+
+
+### Problem
+
+```bash
+Caused by: java.lang.RuntimeException: Minimum supported Gradle version is 4.6. Current version is 4.1. If using the gradle wrapper, try editing the distributionUrl in /Users/evgeny/work/startup-starter/starter-front/starter-mobile/src-cordova/platforms/android/gradle/wrapper/gradle-wrapper.properties to gradle-4.6-all.zip
+
+ailed to apply plugin [id 'com.android.library']
+   > Minimum supported Gradle version is 4.6. Current version is 4.1. If using the gradle wrapper, try editing the distributionUrl in /Users/evgeny/work/startup-starter/starter-front/starter-mobile/src-cordova/gradle/wrapper/gradle-wrapper.properties to gradle-4.6-all.zip
+```
+
+### Solution
+
+open 
+```
+/Users/evgeny/work/startup-starter/starter-front/starter-mobile/src-cordova/platforms/android/cordova/lib/builders/GradleBuilder.js
+```
+and
+```
+/Users/evgeny/work/startup-starter/starter-front/starter-mobile/src-cordova/platforms/android/cordova/lib/builders/GStudioBuilder.js
+```
+
+and replace 
+
+```js
+var distributionUrl = process.env['CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL'] || 'https\\://services.gradle.org/distributions/gradle-4.1-all.zip';
+```
+
+to
+
+```js
+var distributionUrl = process.env['CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL'] || 'https\\://services.gradle.org/distributions/gradle-4.6-all.zip';
+```
+
+([details](https://stackoverflow.com/a/43078202))
+
+
+
