@@ -1,0 +1,1 @@
+- [How remove indent after html tag script for single file component vue in jet brains IDE?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000058150-ESLint-in-Vue-components?page=1#community_comment_360000021900)
