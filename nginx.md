@@ -1,0 +1,2 @@
+- [Используем официальный docker-образ NGINX в InfoboxCloud: часть 1](https://habr.com/company/infobox/blog/265231/)
+- [Nginx как обратный прокси на Docker](https://medium.com/southbridge/nginx-as-reverse-proxy-a62815edd8c1)
