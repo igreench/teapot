@@ -1,0 +1,2 @@
+- [Знакомство с виртуализацией, контейнерами и Kubernetes: 18 материалов о работе в облаке](https://habr.com/company/mailru/blog/427883/)
+- [25 полезных инструментов Kubernetes: развёртывание и управление](https://habr.com/company/mailru/blog/425343/)
