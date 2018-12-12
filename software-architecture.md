@@ -32,3 +32,8 @@
 - [Attribute-Based Access Control for Distributed Systems](https://dspace.library.uvic.ca/bitstream/handle/1828/4561/Cheperdak_David_MSc_2013.pdf?sequence=6)
 
 ***
+
+### Balancing
+- [Балансировка HTTP(S) трафика](https://habr.com/company/mailru/blog/359316/)
+
+***
