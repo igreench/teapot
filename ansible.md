@@ -1,0 +1,1 @@
+- [Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible. Часть 1: Введение](https://infoboxcloud.ru/community/blog/infoboxcloud/226.html)
