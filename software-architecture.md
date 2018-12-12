@@ -6,3 +6,5 @@
 	- [Eventual consistency — один из важных аспектов распределенных систем (Martin Fowler)](https://martinfowler.com/articles/microservice-trade-offs.html#consistency)
 - [Семь принципов создания современных веб-приложений](https://habrahabr.ru/post/242429/)
 - [Закон Конвея](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%8F): "Организация которая разрабатывает систему ... вынуждена делать систему по структуре повторяющую структуру коммуникаций внутри организации"
+
+- [Уменьшаем количество слоёв архитектуры с 5 до 2](https://habr.com/company/mailru/blog/417829/)
