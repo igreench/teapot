@@ -11,6 +11,7 @@
 - [OLTP Through the Looking Glass, and What We Found There](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)
 - [In-Memory Data Management on Modern Hardware](https://hpi.de/plattner/research/in-memory-data-management-for-enterprise-systems.html)
 - [In-Memory Data Management (open.hpi)](https://open.hpi.de/courses/imdb2015)
+- [Что особенного в СУБД для данных в оперативной памяти](https://habr.com/company/oleg-bunin/blog/310560/)
 - [Redis — главное хранилище? Что за хрень?!](https://habr.com/post/178525/)
 
 ***
