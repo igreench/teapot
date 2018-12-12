@@ -1,3 +1,7 @@
+### RDBMS
+
+- [Как работает реляционная БД](https://habr.com/company/mailru/blog/266811/)
+
 ***
 
 ### IMDB
@@ -17,6 +21,20 @@
 - [B⁺-дерево](https://ru.wikipedia.org/wiki/B%E2%81%BA-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
 - [LSM-дерево](https://ru.wikipedia.org/wiki/LSM-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
 - [IOPS](https://ru.wikipedia.org/wiki/IOPS)
+
+***
+
+### Algorithms and Data Structures
+- [Implementing Sorting in Database Systems](http://wwwlgis.informatik.uni-kl.de/archiv/wwwdvs.informatik.uni-kl.de/courses/DBSREAL/SS2005/Vorlesungsunterlagen/Implementing_Sorting.pdf)
+- [The physical structure of InnoDB index pages](https://blog.jcole.us/2013/01/07/the-physical-structure-of-innodb-index-pages/)
+- [B+Tree index structures in InnoDB](https://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/)
+
+***
+
+### Choose your side
+
+- [Рассуждение на тему, какую базу данных выбирать](https://habr.com/post/348220/)
+- [Polyglot Persistence — выбор хранилища, наиболее подходящего для задач конкретного сервиса (Martin Fowler)](https://martinfowler.com/bliki/PolyglotPersistence.html)
 
 ***
 
