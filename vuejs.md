@@ -16,6 +16,11 @@
 
 ***
 
+### Components
+- [11 библиотек (наборов компонентов) для Vue, о которых стоит знать в 2018-м](https://habr.com/company/ruvds/blog/346220/)
+
+***
+
 ### Vue config alias (vue cli 3)
 - [How to set alias (github)](https://github.com/vuejs/vue-cli/issues/2398)
 - [Lint task fails in Vue UI (github)](https://github.com/vuejs/vue-cli/issues/2511)
