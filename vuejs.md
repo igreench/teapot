@@ -11,6 +11,9 @@
 
 ***
 
+### Testing
+- [Vue Test Utils](https://vue-test-utils.vuejs.org/ru/)
+
 ***
 
 ### Vue config alias (vue cli 3)
