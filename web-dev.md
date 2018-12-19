@@ -44,7 +44,7 @@
 
 ## Анимация
 
-- [Отрисовать за 16 мс / Глеб Михеев (Beta Digital Production)](https://www.youtube.com/watch?v=HlKijvTa_h0)
+- Глеб Михеев (Beta Digital Production) - [Отрисовать за 16 мс](https://www.youtube.com/watch?v=HlKijvTa_h0) (HighLoad++)
 
 ***
 
