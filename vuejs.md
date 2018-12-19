@@ -18,6 +18,8 @@
 
 ### Animations
 - [Vue.js + GSAP = 🔥 Animations](https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a)
+- Eduardo San Martin Morote (Vue core team) - [State animations Getting them right](https://www.youtube.com/watch?v=A6FPWsPdfuc) ([demo](https://state-animations-amsterdam.surge.sh/))
+- Sarah Drasner - Animating Vue How capable and elegant is Vue js in terms of animation ([text](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/) and [video](https://www.youtube.com/watch?v=LLnVLjpY6gE))
 
 ***
 
