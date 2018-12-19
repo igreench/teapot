@@ -42,6 +42,12 @@
 
 ***
 
+## Анимация
+
+- [Отрисовать за 16 мс / Глеб Михеев (Beta Digital Production)](https://www.youtube.com/watch?v=HlKijvTa_h0)
+
+***
+
 ## Еще интересные статьи
 
 - [11 JavaScript-библиотек для визуализации данных, о которых стоит знать в 2018 году](https://habr.com/company/ruvds/blog/423983/)
