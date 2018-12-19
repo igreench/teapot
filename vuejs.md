@@ -16,6 +16,11 @@
 
 ***
 
+### Animations
+- [Vue.js + GSAP = 🔥 Animations](https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a)
+
+***
+
 ### Components
 - [11 библиотек (наборов компонентов) для Vue, о которых стоит знать в 2018-м](https://habr.com/company/ruvds/blog/346220/)
 
