@@ -8,6 +8,7 @@
 ### Vue with TypeScript
 - [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
 - [vuex-module-decorators](https://championswimmer.in/vuex-module-decorators/pages/getting-started.html#define-a-module)
+- [How I do Vue in 2019: TypeScript and TSX](https://medium.com/@lachlanmiller_52885/how-i-do-vue-in-2019-typescript-and-tsx-6b648a4decd3)
 
 ***
 
