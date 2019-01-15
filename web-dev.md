@@ -18,6 +18,24 @@
 
 ***
 
+## Node Hero (Перевод [книги](https://risingstack.com/resources/node-hero) от [RisingStack](https://risingstack.com/))
+
+- [Часть 1. Начало работы с Node.js](https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1)
+- [Часть 2. Использование NPM](https://medium.com/devschacht/node-hero-chapter-2-f04fec8182f0)
+- [Часть 3. Понимание асинхронного программирования](https://medium.com/devschacht/node-hero-chapter-3-cae7333c7f3d)
+- [Часть 4. Ваш первый сервер на Node.js](https://medium.com/devschacht/node-hero-chapter-4-c2ebcd12565c)
+- [Часть 5. Работа с базами данных](https://medium.com/devschacht/node-hero-chapter-5-dd79607858f2)
+- [Часть 6. Модуль Request](https://medium.com/devschacht/node-hero-chapter-6-83bc7bef89fb)
+- [Часть 7. Файловая структура проекта](https://medium.com/devschacht/node-hero-chapter-7-4078fa61ece6)
+- [Часть 8. Аутентификация в Node.js с использованием Passport.js](https://medium.com/devschacht/node-hero-chapter-8-27b74c33a5ce)
+- [Часть 9. Модульное тестирование](https://medium.com/devschacht/node-hero-chapter-9-68041507aec)
+- [Часть 10. Отладка](https://medium.com/devschacht/node-hero-chapter-10-60b08a3a2f82)
+- [Часть 11. Безопасность](https://medium.com/devschacht/node-hero-chapter-11-c35c590f518e)
+- [Часть 12. Деплой вашего приложения](https://medium.com/devschacht/node-hero-chapter-12-6c392f4e3c0f)
+- [Часть 13. Мониторинг Node.js-приложений](https://medium.com/devschacht/node-hero-chapter-13-d76531f4d0f3)
+
+***
+
 ## Веб-приложение на Node и Vue
 
 - [Часть 1: Структура проекта, API, аутентификация](https://habr.com/company/ruvds/blog/340750/)
