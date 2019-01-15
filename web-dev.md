@@ -83,5 +83,6 @@
 - [Оптимизация работы с прототипами в JavaScript-движках](https://habr.com/company/ruvds/blog/422321/)
 - [Организация эффективного взаимодействия микросервисов](https://habr.com/company/ruvds/blog/421579/)
 - **[!!!]** [Почему не стоит использовать LocalStorage](https://habr.com/post/349164/)
+- [Node Hero — руководство по безопасности Node.js](https://tproger.ru/translations/nodejs-security-guide/)
 
 ***
