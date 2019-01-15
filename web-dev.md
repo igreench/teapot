@@ -1,3 +1,13 @@
+***
+
+## Краткая история JavaScript
+
+- [Краткая история JavaScript. Часть 1](https://habr.com/ru/company/livetyping/blog/324196/)
+- [Краткая история JavaScript. Часть 2](https://habr.com/ru/company/livetyping/blog/324506/)
+- [Краткая история JavaScript. Часть 3](https://habr.com/ru/company/livetyping/blog/324908/)
+
+***
+
 ## Руководство по Node.js
 
 - [Часть 1: Общие сведения и начало работы](https://habr.com/company/ruvds/blog/422893/)
@@ -55,3 +65,5 @@
 - [Оптимизация работы с прототипами в JavaScript-движках](https://habr.com/company/ruvds/blog/422321/)
 - [Организация эффективного взаимодействия микросервисов](https://habr.com/company/ruvds/blog/421579/)
 - **[!!!]** [Почему не стоит использовать LocalStorage](https://habr.com/post/349164/)
+
+***
