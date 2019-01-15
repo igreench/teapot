@@ -12,3 +12,4 @@
 - [Примеры использования njs](http://nginx.org/ru/docs/njs/examples.html)
 - [NginScript на практике](https://ruhighload.com/nginscript+%D0%BD%D0%B0+%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5)
 - [Nginx + Lua, гибкая балансировка нагрузки с сохранением сессии](https://habr.com/ru/post/326486/)
+- [Оптимизация в HTTP/2](https://ruhighload.com/%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%B2+http%2F2)
