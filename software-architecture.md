@@ -37,3 +37,9 @@
 - [Балансировка HTTP(S) трафика](https://habr.com/company/mailru/blog/359316/)
 
 ***
+
+### Frontend
+
+- [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
+
+***
