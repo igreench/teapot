@@ -1,3 +1,7 @@
+- [Docker Compose for Node projects with Node, MySQL, Redis, MongoDB, NGINX, Apache2, Memcached, Certbot and RabbitMQ images](https://github.com/Osedea/nodock)
+
+***
+
 ## Examples
 
 - [Basic skeleton with Express app generator](https://github.com/b00giZm/docker-compose-nodejs-examples/tree/master/00-basic-express-generator)
