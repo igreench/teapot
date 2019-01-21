@@ -1,5 +1,11 @@
 ***
 
+### Guides
+
+- [Русскоязычный видеокурс «Vue.js для начинающих»](https://tproger.ru/video/vue-js-for-beginners-videos/)
+
+***
+
 ### Vue Books
 - [The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 
