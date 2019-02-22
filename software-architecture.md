@@ -27,6 +27,11 @@
 
 ***
 
+### Authentication
+- [Authentication in SPA (ReactJS and VueJS) the right way](https://medium.com/@jcbaey/authentication-in-spa-reactjs-and-vuejs-the-right-way-e4a9ac5cd9a3)
+
+***
+
 ### Access Control
 - [Права доступа: RBAC, ABAC или велосипед](http://blog.bpium.ru/rights-policy-model/)
 - [Attribute-Based Access Control for Distributed Systems](https://dspace.library.uvic.ca/bitstream/handle/1828/4561/Cheperdak_David_MSc_2013.pdf?sequence=6)
