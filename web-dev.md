@@ -36,6 +36,10 @@
 
 ***
 
+## [Руководства по Node.js](https://nodeguide.ru/doc/)
+
+***
+
 ## Веб-приложение на Node и Vue
 
 - [Часть 1: Структура проекта, API, аутентификация](https://habr.com/company/ruvds/blog/340750/)
