@@ -1,0 +1,2 @@
+- [Макро-польза микро-сервисов: мост от legacy-архитектур к современному IT](https://tproger.ru/blogs/microservices-and-its-usefulness/)
+- [Сначала — монолит, или правильный путь к микросервисной архитектуре](https://tproger.ru/translations/monolithfirst/)
