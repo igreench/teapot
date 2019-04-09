@@ -2,7 +2,15 @@
 
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 - [Как правильно «фармить» Kaggle](https://habr.com/company/ods/blog/426227/)
+- [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course). Machine Learning Crash Course with TensorFlow APIs. Google's fast-paced, practical introduction to machine learning
+- [Как создать чат-бота с нуля на Python: подробная инструкция](https://neurohive.io/ru/tutorial/kak-sozdat-chat-bota-s-nulja-na-python-instrukcija/)
+- [Как создать собственную нейронную сеть с нуля на языке Python](https://neurohive.io/ru/tutorial/kak-sozdat-nejronnuju-set-s-nulja-na-jazyke-python/)
+- [Как работает нейронная сеть: алгоритмы, обучение, функции активации и потери](https://neurohive.io/ru/osnovy-data-science/osnovy-nejronnyh-setej-algoritmy-obuchenie-funkcii-aktivacii-i-poteri/)
+- [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
+
 
 ### Natural Language Processing
 
 - [Обработка текстов на естественных языках](https://habr.com/company/mailru/blog/358736/)
+- [Как решить 90% задач NLP: пошаговое руководство по обработке естественного языка](https://habr.com/ru/company/oleg-bunin/blog/352614/)
+- [Word2Vec: как работать с векторными представлениями слов](https://neurohive.io/ru/osnovy-data-science/word2vec-vektornye-predstavlenija-slov-dlja-mashinnogo-obuchenija/)
