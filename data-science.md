@@ -7,6 +7,8 @@
 - [Как создать собственную нейронную сеть с нуля на языке Python](https://neurohive.io/ru/tutorial/kak-sozdat-nejronnuju-set-s-nulja-na-jazyke-python/)
 - [Как работает нейронная сеть: алгоритмы, обучение, функции активации и потери](https://neurohive.io/ru/osnovy-data-science/osnovy-nejronnyh-setej-algoritmy-obuchenie-funkcii-aktivacii-i-poteri/)
 - [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Введение в pandas: анализ данных на Python](https://khashtamov.com/ru/pandas-introduction/)
 
 
 ### Natural Language Processing
