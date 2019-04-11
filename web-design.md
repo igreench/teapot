@@ -21,3 +21,11 @@
 - [Online CSS Grid Constructor](https://grid.layoutit.com/)
 
 ***
+
+### Makeup
+
+- [Какие существуют «общие» правила по верстке web страниц? (тостер)](https://toster.ru/q/619070)
+- ["Вёрстка — это не тупо" - пособие для тех, кому надо верстать](http://webmasters.teamdev.com)
+- [Дизайн текста: матчасть](https://design.glvrd.ru/learn.html)
+
+***
