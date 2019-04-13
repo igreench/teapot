@@ -90,3 +90,15 @@
 - [Node Hero — руководство по безопасности Node.js](https://tproger.ru/translations/nodejs-security-guide/)
 
 ***
+
+## others
+
+- [Шпаргалка по пакетному менеджеру NPM](https://habrahabr.ru/post/133363/)
+- [Single-page application vs. multiple-page application](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
+- [9 Steps: Choosing a tech stack for your web application](https://medium.com/unicorn-supplies/9-steps-how-to-choose-a-technology-stack-for-your-web-application-a6e302398e55)
+- [Top 7 JavaScript Frameworks](https://hackernoon.com/top-7-javascript-frameworks-c8db6b85f1d0)
+- [Results for js web frameworks benchmark](https://rawgit.com/krausest/js-framework-benchmark/master/webdriver-ts/table.html)
+- [Angular vs. React vs. Vue: Сравнение 2017](https://habrahabr.ru/post/338068/)
+([original](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176))
+- [Каково оно учить JavaScript в 2016](https://habrahabr.ru/post/312022/)
+
