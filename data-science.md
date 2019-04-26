@@ -9,6 +9,7 @@
 - [Как применять теорему Байеса для решения реальных задач](https://neurohive.io/ru/osnovy-data-science/kak-primenjat-teoremu-bajesa-dlja-reshenija-realnyh-zadach/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Введение в pandas: анализ данных на Python](https://khashtamov.com/ru/pandas-introduction/)
+- [13 книг для аналитиков: об анализе и обработке данных, работе на языках R и Python](https://vc.ru/hr/65345-13-knig-dlya-analitikov-ob-analize-i-obrabotke-dannyh-rabote-na-yazykah-r-i-python)
 
 
 ### Natural Language Processing
