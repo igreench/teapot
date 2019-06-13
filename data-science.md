@@ -10,6 +10,7 @@
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Введение в pandas: анализ данных на Python](https://khashtamov.com/ru/pandas-introduction/)
 - [13 книг для аналитиков: об анализе и обработке данных, работе на языках R и Python](https://vc.ru/hr/65345-13-knig-dlya-analitikov-ob-analize-i-obrabotke-dannyh-rabote-na-yazykah-r-i-python)
+- [Лучшие датасеты для машинного обучения и анализа данных](https://tproger.ru/translations/the-best-datasets-for-machine-learning-and-data-science/)
 
 
 ### Natural Language Processing
