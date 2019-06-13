@@ -20,3 +20,7 @@
 - [Word2Vec: как работать с векторными представлениями слов](https://neurohive.io/ru/osnovy-data-science/word2vec-vektornye-predstavlenija-slov-dlja-mashinnogo-obuchenija/)
 - [Учим машину разбираться в генах человека](https://habr.com/ru/company/microsoft/blog/343604/)
 - [Общий взгляд на машинное обучение: классификация текста с помощью нейронных сетей и TensorFlow](https://tproger.ru/translations/text-classification-tensorflow-neural-networks/)
+
+### Theory
+
+- [Метрики в задачах машинного обучения](https://habr.com/ru/company/ods/blog/328372/)
