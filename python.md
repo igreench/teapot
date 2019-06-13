@@ -34,3 +34,9 @@
 - [Подборка @pythonetc, ноябрь 2018](https://habr.com/company/mailru/blog/432628/)
 
 ***
+
+### language
+
+- [Встроенные функции Python: какие нужно знать и на какие не стоит тратить время](https://tproger.ru/translations/python-built-ins-worth-learning/)
+
+***
