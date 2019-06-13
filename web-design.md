@@ -29,3 +29,9 @@
 - [Дизайн текста: матчасть](https://design.glvrd.ru/learn.html)
 
 ***
+
+### Tools
+
+- [Аналог Tilda, генератор сайтов из «Google Таблиц» и другие новые инструменты дизайна](https://vc.ru/design/63841-analog-tilda-generator-saytov-iz-google-tablic-i-drugie-novye-instrumenty-dizayna)
+
+***
