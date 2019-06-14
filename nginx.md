@@ -3,13 +3,14 @@
 - [Nginx и https. Получаем класс А+](https://habr.com/ru/post/252821/)
 - [Используем официальный docker-образ NGINX в InfoboxCloud: часть 1](https://habr.com/company/infobox/blog/265231/)
 - [Nginx как обратный прокси на Docker](https://medium.com/southbridge/nginx-as-reverse-proxy-a62815edd8c1)
+- [Масштабируемая конфигурация nginx](http://highload.guide/blog/scalable-configuration-nginx.html)
 
 ### perfomance
 
 - [Оптимальная настройка Nginx](https://ruhighload.com/%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+nginx)
 - [Оптимизация в HTTP/2](https://ruhighload.com/%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%B2+http%2F2)
 - [Пулы потоков NGINX: увеличиваем производительность в 9 раз!](https://medium.com/southbridge/thread-pools-boost-performance-9x-846d191f37cd)
-
+- [Ускоряем Nginx за 5 минут](https://habr.com/ru/post/198982/)
 ### lua
 
 - [Nginx + Lua, гибкая балансировка нагрузки с сохранением сессии](https://habr.com/ru/post/326486/)
