@@ -12,6 +12,9 @@
 - [13 книг для аналитиков: об анализе и обработке данных, работе на языках R и Python](https://vc.ru/hr/65345-13-knig-dlya-analitikov-ob-analize-i-obrabotke-dannyh-rabote-na-yazykah-r-i-python)
 - [Лучшие датасеты для машинного обучения и анализа данных](https://tproger.ru/translations/the-best-datasets-for-machine-learning-and-data-science/)
 
+- [Записи лекций школы анализа данных Яндекса](https://yandexdataschool.ru/edu-process/courses)
+- [ШАД Яндекса. Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning)
+
 
 ### Natural Language Processing
 
