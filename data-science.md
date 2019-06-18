@@ -1,5 +1,11 @@
 # Data Science
 
+### Для новичков
+
+- [Записи лекций школы анализа данных Яндекса](https://yandexdataschool.ru/edu-process/courses)
+- [ШАД Яндекса. Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning)
+
+### Common
 - [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 - [Как правильно «фармить» Kaggle](https://habr.com/company/ods/blog/426227/)
 - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course). Machine Learning Crash Course with TensorFlow APIs. Google's fast-paced, practical introduction to machine learning
@@ -11,10 +17,6 @@
 - [Введение в pandas: анализ данных на Python](https://khashtamov.com/ru/pandas-introduction/)
 - [13 книг для аналитиков: об анализе и обработке данных, работе на языках R и Python](https://vc.ru/hr/65345-13-knig-dlya-analitikov-ob-analize-i-obrabotke-dannyh-rabote-na-yazykah-r-i-python)
 - [Лучшие датасеты для машинного обучения и анализа данных](https://tproger.ru/translations/the-best-datasets-for-machine-learning-and-data-science/)
-
-- [Записи лекций школы анализа данных Яндекса](https://yandexdataschool.ru/edu-process/courses)
-- [ШАД Яндекса. Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning)
-
 
 ### Natural Language Processing
 
