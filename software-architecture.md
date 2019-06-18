@@ -48,3 +48,9 @@
 - [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
 
 ***
+
+### Templates of code
+
+- [Шаблоны RealWorld на разных стэках](https://github.com/gothinkster/realworld)
+
+***
