@@ -8,6 +8,14 @@
 
 ***
 
+## Переводы от RUVDS
+
+- [Руководство по JavaScript](https://ruvds.com/img/other/4d473383-2474-466a-ac4b-e9b6175e2686.pdf)
+- [Руководство по Node.js](https://ruvds.com/img/other/ee86eb4f-db9f-48d3-8094-c76e14414678.pdf)
+- [Руководство по Bash-скриптам](http://ruvds.com/doc/bash.pdf)
+
+***
+
 ## Руководство по Node.js
 
 - [Часть 1: Общие сведения и начало работы](https://habr.com/company/ruvds/blog/422893/)
