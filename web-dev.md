@@ -82,9 +82,9 @@
 
 ***
 
-[Строим свой full-stack на JavaScript: Основы](https://habr.com/ru/post/309466/)
-[Строим свой full-stack на JavaScript: Сервер](https://habr.com/ru/post/310042/)
-[Строим свой full-stack на JavaScript: Клиент](https://habr.com/ru/post/310788/)
+- [Строим свой full-stack на JavaScript: Основы](https://habr.com/ru/post/309466/)
+- [Строим свой full-stack на JavaScript: Сервер](https://habr.com/ru/post/310042/)
+- [Строим свой full-stack на JavaScript: Клиент](https://habr.com/ru/post/310788/)
 
 ***
 
