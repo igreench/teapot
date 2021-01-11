@@ -7,6 +7,13 @@
 
 ***
 
+Просто хорошие статьи по UI/UX:
+- [Дизайн для всех: подробное руководство по созданию интерфейсов для людей с ограниченными возможностями](https://nuancesprog.ru/p/9807/)
+- [Metrics. Measuring performance and user experience](https://web.dev/metrics/)
+- [21 метод UX-исследований: какой выбрать](https://habr.com/ru/post/511652/)
+
+***
+
 [Курс "Дизайн в цифровой среде"](https://tilda.education/courses/web-design/)
 - [Основные этапы работы над веб-проектом](https://tilda.education/courses/web-design/basicsteps/)
 - [Дизайн-мышление](https://tilda.education/courses/web-design/designthinking/)
