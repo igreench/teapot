@@ -46,3 +46,22 @@
 - [So, You’re Looking for the Redis GUI?](https://redislabs.com/blog/so-youre-looking-for-the-redis-gui/)
 
 ***
+
+### DB
+
+- [SQLite vs MySQL vs PostgreSQL: A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
+- [A Comparison of NoSQL Database Management Systems and Models](https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models)
+
+Грубо СУБД можно разделить на реляционные [RDBMS] и нереляционные [NoSQL].
+
+Из реляционных популярны: MySQL, PostreSQL, SQLite, Microsoft SQL Server, Oracle Database. 
+
+Нереляционные делятся на несколько типов:
+- [KVDB] Key-value store	(Redis, MemcacheDB)
+- Columnar database	(Cassandra, Apache HBase)
+- Document store (MongoDB, Couchbase)
+- Graph database (OrientDB, Neo4j)
+- [ORD, ORDBMS] Object–relational database
+- [TSDB] Time series database
+
+***
