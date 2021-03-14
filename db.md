@@ -51,6 +51,7 @@
 
 - [SQLite vs MySQL vs PostgreSQL: A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 - [A Comparison of NoSQL Database Management Systems and Models](https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models)
+- [7 типов современных баз данных: предназначение, достоинства и недостатки](https://tproger.ru/articles/kakuju-bazu-dannyh-vybrat-dlja-proekta-chtoby-potom-ne-zhalet-ob-jetom/)
 
 Грубо СУБД можно разделить на реляционные [RDBMS] и нереляционные [NoSQL].
 
