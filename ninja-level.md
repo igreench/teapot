@@ -27,4 +27,4 @@ others:
 - [Redux. Простой как грабли](https://habr.com/ru/post/439104/)
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-  - [https://www.youtube.com/watch?v=Gjnup-PuquQ](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+  - [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ)
