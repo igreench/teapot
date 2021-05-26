@@ -1,4 +1,4 @@
-# Useful mac os apps and sites
+# Init Mac Os X. Useful mac os apps and sites
 
 ## Main
 
@@ -34,6 +34,17 @@
 
 - https://plugins.jetbrains.com/plugin/8006-material-theme-ui
 - приятные темы в материал дизайне для иде от жб
+- в настройках плагина можно много чего поменять. лично мне нравится максимальная компактность:
+  - Material Theme UI
+    - Settings
+      - Compact
+        - Compact Statusbar
+        - Compact Table Cells
+        - Compact Dropdown Lists
+        - Compact Menus
+      - Project View
+        - Custom Sidebar Height 
+        - Custom Tree Indent
 
 ### iTerm2
 
