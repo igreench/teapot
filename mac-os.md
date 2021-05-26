@@ -30,6 +30,11 @@
 - https://www.jetbrains.com/ru-ru/toolbox-app/
 - удобная установка и обновление продуктов jb
 
+### JetBrains Material Theme UI
+
+- https://plugins.jetbrains.com/plugin/8006-material-theme-ui
+- приятные темы в материал дизайне для иде от жб
+
 ### iTerm2
 
 - https://iterm2.com/
