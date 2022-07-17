@@ -93,15 +93,16 @@
 
 ***
 
-[Завершаем настройку мощного API на Nodejs, GraphQL, MongoDB, Hapi, и Swagger. Часть 2](https://medium.com/nuances-of-programming/%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B0%D0%B5%D0%BC-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D1%83-%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D0%B3%D0%BE-api-%D0%BD%D0%B0-nodejs-graphql-mongodb-hapi-%D0%B8-swagger-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-d66c95640a1f)
-
-***
-
-[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+## [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ***
 
 [How To Set Up a Node.js Application for Production on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
+
+***
+
+- [Как настроить мощный API на Nodejs, GraphQL, MongoDB, Hapi, и Swagger. Часть 1](https://medium.com/@kokudjin/285401d7e5a0)
+- [Завершаем настройку мощного API на Nodejs, GraphQL, MongoDB, Hapi, и Swagger. Часть 2](https://medium.com/nuances-of-programming/%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B0%D0%B5%D0%BC-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D1%83-%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D0%B3%D0%BE-api-%D0%BD%D0%B0-nodejs-graphql-mongodb-hapi-%D0%B8-swagger-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-d66c95640a1f)
 
 ***
 
