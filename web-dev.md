@@ -88,6 +88,11 @@
 
 ***
 
+- [Node.js: использование веб-потоков. Часть 1](https://habr.com/ru/company/timeweb/blog/675676/)
+- [Node.js: использование веб-потоков. Часть 2](https://habr.com/ru/company/timeweb/blog/676210/)
+
+***
+
 [Завершаем настройку мощного API на Nodejs, GraphQL, MongoDB, Hapi, и Swagger. Часть 2](https://medium.com/nuances-of-programming/%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B0%D0%B5%D0%BC-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D1%83-%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D0%B3%D0%BE-api-%D0%BD%D0%B0-nodejs-graphql-mongodb-hapi-%D0%B8-swagger-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-d66c95640a1f)
 
 ***
