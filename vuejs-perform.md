@@ -1,4 +1,7 @@
 # Улучшение производительности vue приложения
+
+*19 Feb 2021*
+
 - https://github.com/Kasheftin/vue-rerendering-optimization/blob/master/article.txt
 - https://kasheftin.github.io/vue-rerendering-optimization/#/
 - https://teamhood.com/engineering/vue-js-component-props/
