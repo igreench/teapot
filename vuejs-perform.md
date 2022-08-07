@@ -1,6 +1,7 @@
 # Улучшение производительности vue приложения
-https://github.com/Kasheftin/vue-rerendering-optimization/blob/master/article.txt
-https://kasheftin.github.io/vue-rerendering-optimization/#/
+- https://github.com/Kasheftin/vue-rerendering-optimization/blob/master/article.txt
+- https://kasheftin.github.io/vue-rerendering-optimization/#/
+- https://teamhood.com/engineering/vue-js-component-props/
 
 У нас в TeamHood есть wiki. 
 Там собралась коллекция рекоммендаций, в том числе, по улучшению производительности тяжелого фронтенда на vue.js.
@@ -11,25 +12,30 @@ https://kasheftin.github.io/vue-rerendering-optimization/#/
 - 2 rows
 - development board
 - subtasks + in progress, for pairtest
--- resort rows;
--- move task with 3 children to parent-child column
--- assign first child 
--- resort children
--- trigger submenu, assign a tag
--- mark third child completed
+- resort rows;
+- move task with 3 children to parent-child column
+- assign first child 
+- resort children
+- trigger submenu, assign a tag
+- mark third child completed
 
 В статье разобрано несколько редко упоминаемых техник из нашей wiki, которые помогут сократить излишний рендеринг компонентов и улучшить производительность.
 
-https://kasheftin.github.io/vue-rerendering-optimization/
-https://github.com/Kasheftin/vue-rerendering-optimization
+- https://kasheftin.github.io/vue-rerendering-optimization/
+- https://github.com/Kasheftin/vue-rerendering-optimization
 
 Все примеры собраны в отдельном репозитории [link]. Это vue2 приложение, хотя все проверено и продолжает быть актуальным для vue3.
+
 По моему мнению, vue3 еще не production-ready. В vuex4 утекает память, исследовать соответствующие оптимизации там пока бессмысленно (что обнадеживает, затраты памяти там в разы меньше чем в vue2+vuex3). 
+
 Примеры написаны на минимальном простейшем javascript, было искушение воткнуть vue-class-component, typescript, typed-vuex и остальную кухню реального проекта, но удержался.
 
 1. (Deep) Object Watchers.
+
 Не использовать deep модификатор; использовать watch только для примитивных типов. 
+
 Начнем с простого примера. 
+
 Некий массив items приходит с сервера, сохраняется в vuex store, отрисовывается, возле каждого item есть чекбокс.
 Свойство isChecked относится к интерфейсу, хранится отдельно от item, однако есть getter, который собирает их вместе:
 
@@ -66,13 +72,18 @@ export default class ItemList extends Vue {
 ````
 
 В этом случае переключение чекбокса у любого item вызывается излишнее срабатывание сохранение порядка. 
+
 Конструирование новых объектов - настолько естественный процесс, что даже в этом тривиальном примере мы делаем это дважды. 
+
 Изменение checkedItemIds вызвает пересоздание массива extendedItems (и пересоздание каждого элемента этого массива), затем
 идет пересоздание объекта itemIds. Это может казаться контра-интуитивным, ведь создается массив, состоящий из тех же самых элементов в том же самом порядке.
+
 Однако, это природа javascript, [1,2,3] != [1,2,3]. 
 
 Решение - полный отказ от использования watcher для объектов и массивов. 
+
 Для каждого сложного watcher создается отдельный computed примитивного типа. 
+
 Например, если требуется отслеживать свойства {id, title, userId} в массиве items, можно сделать строку,
 
 ````js
