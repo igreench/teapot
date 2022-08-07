@@ -163,12 +163,14 @@ mutations: {
     }
   }
 }
+````
 
 Замечу, что замерять расход памяти нужно на build-версии (не в development).
 
 3. Функциональные геттеры.
 Иногда это пропускают в документации (https://vuex.vuejs.org/guide/getters.html#method-style-access).
 Функциональные геттеры не кешируются. Вот это:
+
 ````js
 // Vuex: 
 getters: {
