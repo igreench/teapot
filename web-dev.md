@@ -96,6 +96,13 @@
 ## [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ***
+## HTTP/3
+
+- [Часть 1: История и ключевые концепции HTTP/3](https://habr.com/ru/company/southbridge/blog/575464/)
+- [Часть 2: Характеристики производительности HTTP/3](https://habr.com/ru/company/southbridge/blog/583434/)
+- [Часть 3: Развёртывание HTTP/3 на практике](https://habr.com/ru/company/southbridge/blog/588230/)
+
+***
 
 [How To Set Up a Node.js Application for Production on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
 
