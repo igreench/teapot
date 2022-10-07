@@ -1,5 +1,15 @@
 ***
 
+## Гайды
+
+- [Современный учебник JavaScript (learn.javascript.ru)](https://learn.javascript.ru/) ([eng](https://javascript.info/))
+- [Рекомендации по современной веб-разработке (web.dev)](https://web.dev/)
+- [Documenting web technologies (developer.mozilla.org)](https://developer.mozilla.org/ru/)
+- [Руководства по Node.js](https://github.com/ekalinin/nodeguide.ru)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
+***
+
 ## Краткая история JavaScript
 
 - [Краткая история JavaScript. Часть 1](https://habr.com/ru/company/livetyping/blog/324196/)
@@ -44,10 +54,6 @@
 
 ***
 
-## [Руководства по Node.js](https://nodeguide.ru/doc/)
-
-***
-
 ## Веб-приложение на Node и Vue
 
 - [Часть 1: Структура проекта, API, аутентификация](https://habr.com/company/ruvds/blog/340750/)
@@ -82,20 +88,34 @@
 
 ***
 
-- [Строим свой full-stack на JavaScript: Основы](https://habr.com/ru/post/309466/)
-- [Строим свой full-stack на JavaScript: Сервер](https://habr.com/ru/post/310042/)
-- [Строим свой full-stack на JavaScript: Клиент](https://habr.com/ru/post/310788/)
+## Строим свой full-stack на JavaScript
+
+- [Основы](https://habr.com/ru/post/309466/)
+- [Сервер](https://habr.com/ru/post/310042/)
+- [Клиент](https://habr.com/ru/post/310788/)
 
 ***
 
-- [Node.js: использование веб-потоков. Часть 1](https://habr.com/ru/company/timeweb/blog/675676/)
-- [Node.js: использование веб-потоков. Часть 2](https://habr.com/ru/company/timeweb/blog/676210/)
+## Node.js: использование веб-потоков
+
+- [Часть 1](https://habr.com/ru/company/timeweb/blog/675676/)
+- [Часть 2](https://habr.com/ru/company/timeweb/blog/676210/)
 
 ***
 
-## [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+## Приручаем многопоточность в Node.js
+
+- [Часть 1. Базовые концепты](https://habr.com/ru/post/689144/)
+- [Часть 2. Очередь, каналы и координатор](https://habr.com/ru/post/689406/)
+- [Часть 3. Разделяемая память, атомарные операции и блокировки](https://habr.com/ru/post/689864/)
+- [Часть 4. Координатор против синхронного кода](https://habr.com/ru/post/691352/)
+
+(от этих же ребят)
+
+- [Эффективная FIFO-обработка для Node.js и Chrome](https://habr.com/ru/company/tensor/blog/688182/)
 
 ***
+
 ## HTTP/3
 
 - [Часть 1: История и ключевые концепции HTTP/3](https://habr.com/ru/company/southbridge/blog/575464/)
