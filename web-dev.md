@@ -130,6 +130,7 @@
 - [Redux. Простой как грабли](https://habr.com/ru/post/439104/)
 - TOFIND: статья про свой серверный фрэймворк на nodejs на хабре
 - Create a Simplified Version of Vue.js Reactivity System  ([part 1](https://jefrydco.id/en/blog/create-reactivity-system-vuejs-javascript-part-1), [part 2](https://jefrydco.id/en/blog/create-reactivity-system-vuejs-javascript-part-2/))
+- [Создание механизма реактивности](https://habr.com/ru/companies/timeweb/articles/725504/)
 
 ***
 
