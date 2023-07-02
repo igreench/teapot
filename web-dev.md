@@ -7,6 +7,7 @@
 - [Documenting web technologies (developer.mozilla.org)](https://developer.mozilla.org/ru/)
 - [Руководства по Node.js](https://github.com/ekalinin/nodeguide.ru)
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Современный курс по Node.js в 2020](https://habr.com/ru/articles/485294/)
 
 ***
 
@@ -126,11 +127,15 @@
 
 ## DIY
 
-- TOFIND: статья про свой аналог react/vue (q, que, что-то такое) на хабре
+- [Serge Zaitsev] [Сделаем худший Vue.js в мире](https://habr.com/ru/company/timeweb/blog/547188/) ([eng](https://zserge.com/posts/worst-vuejs-ever/)) ([gihub Q!](https://github.com/zserge/q))
+- [Serge Zaitsev] [LET'S MAKE THE WORST REACT EVER!](https://zserge.com/posts/worst-react-ever/)
+- [Jason Knight] [Реакт – хлам, и я вам это докажу!](https://proglib.io/p/reakt-hlam-i-ya-vam-eto-dokazhu-2021-04-19) ([eng](https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4))
+- [Jason Knight] [Part Of Why I Think React Is Junk](https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4)
 - [Redux. Простой как грабли](https://habr.com/ru/post/439104/)
-- TOFIND: статья про свой серверный фрэймворк на nodejs на хабре
 - Create a Simplified Version of Vue.js Reactivity System  ([part 1](https://jefrydco.id/en/blog/create-reactivity-system-vuejs-javascript-part-1), [part 2](https://jefrydco.id/en/blog/create-reactivity-system-vuejs-javascript-part-2/))
 - [Создание механизма реактивности](https://habr.com/ru/companies/timeweb/articles/725504/)
+- [Timur Shemsedinov (MarcusAurelius)] [Технологический стек Node.js 2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md) ([github NodejsStarterKit
+](https://github.com/HowProgrammingWorks/NodejsStarterKit/))
 
 ***
 
