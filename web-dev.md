@@ -9,6 +9,8 @@
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Современный курс по Node.js в 2020](https://habr.com/ru/articles/485294/)
 
+- [Plain Vanilla](https://plainvanillaweb.com/). An explainer for doing web development using only vanilla techniques. No tools, no frameworks — just HTML, CSS, and JavaScript.
+
 ***
 
 ## Краткая история JavaScript
